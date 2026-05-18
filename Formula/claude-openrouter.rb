@@ -2,7 +2,7 @@ class ClaudeOpenrouter < Formula
   desc "Shell launcher for running Claude Code through OpenRouter"
   homepage "https://github.com/404kidwiz/claude-openrouter-router"
   url "https://github.com/404kidwiz/claude-openrouter-router/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "6cad489ec89f658a1bd92703493694b6980311cafe43aeee27acfefdaf0c26ed"
+  sha256 "9f5a9a958d4427eb7fdc1f54f1a5882d3bfd53b456b073d8f93c0c0586c7cbee"
   version "0.7.0"
   license "MIT"
   head "https://github.com/404kidwiz/claude-openrouter-router.git", branch: "main"
